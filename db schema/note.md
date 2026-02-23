@@ -1,0 +1,1 @@
+-- Note: Only custom tables are shown; Supabase’s default Auth and system tables aren’t included.
