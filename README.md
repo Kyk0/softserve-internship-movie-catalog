@@ -1,3 +1,10 @@
+SoftServe React Internship Project (Apr–May 2025)
+
+React app with Redux, Supabase backend, auth, and movie data via TMDB.
+<br><br><br>
+
+***
+
 # Movie Catalog
 
 A modern web application for browsing and managing your movie collection. Built with React and Supabase, this application provides a seamless experience for movie enthusiasts to discover, track, and organize their favorite films.
